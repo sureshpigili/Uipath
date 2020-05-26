@@ -1,0 +1,189 @@
+Teams — Platon — student manual
+Table of Contents
+Teams — Platon — student manual — 1
+TableofContents..................................................................... 1
+1
+5 1.
+2.
+3. General information.......................................................................
+Logging into PLA TON. ................................................................................................................................................2
+Attending online classes in the Microsoft Teams application.
+1. General information.
+The Microsoft Teams and Platon User Guide provides information on how to join a meeting in the Microsoft Teams
+application using the information provided on the Platon platform.
+Online classes will take place at the same time as they are planned in USOSweb, unless the lecturer decides otherwise.
+Detailed information about online classes will be available on the Platon platform. Please check this information quite
+regularly.
+To participate in the classes, you should have a computer with speakers and a microphone, a webcam is not required.
+You can also participate in classes using mobile phones with iOS or Android systems. You should then install the
+Microsoft Teams application from the application store.
+Supported Internet browsers are:
+Internet Explorer 11,
+Microsoft Edge,
+the latest version of the Chrome browser,
+the latest version of the Firefox browser.
+The metadata of all meetings that take place is saved on the Microsoft Teams server (how long the meeting took,
+when it was started, how many people attended, and how good the connection was).
+Meetings can be recorded; you will see the relevant information on the meeting screen.
+Participation in online classes is required, as in regular classes. Failure to attend online classes may result in failure
+in completing these classes. VISTULA - DZIAL IT
+12. Logging into PLATON.
+To log in to the Platon system, please visit:
+https://platon.vistu(a.edu.pl
+and press "Logowanie AFiBV, SGTiH"
+Instrukcja _ Lu VISTULA
+Logowanie VISTULA gowan uwierzyte'rieni., wy VISTULA
+"an D PLOMOW wan ERASMU
+Fundusze
+Europejskie
+Program Regionalny Qazowsze.
+serce Polski Unia Europejska
+EuropeJskl Fundusz Spoteany
+A new window will appear logging into the CAS system (central authentication system).
+WARNING. If you have already been logged into the CAS system (e.g. USOSweb), then after pressing the login
+button you will immediately log into the platform without entering a password.
+Log in there with the same login and password as for USOSweb. Cen
+Wprowadi sw6j iden $kator
+sieciowy i haslo
+Easlo:
+innych Uwierzytelnianie do uslug Internetowych Uczelni Vistula wymaga posiadania NetID.
+identyfikatora realizowane jest przez jednorazowq usluge automatycznq i zajmuje t?
+rozpocz# proces kllknij poniiej na napls n Zamöw".
+Zam6w
+D. z.chow ni' b zp-eaeristw., zawavsz z ush_rq
+VISTULA - DZIAL IT
+2 - i zzmknii przeql'dæWarning. If you cannot log in to Platon, please contact the IT department: icthelp@vjstula.edu.pl
+After logging in, the main screen of the Platon platform appears, press the green button: "Number of my training
+d2Y_I Student
+Nowe Scle&l szkoleniowe uZytkownLka
+Nazwa
+Advanced techniques ot communication and argumentation (PWB4SE03Wd-L20)
+tntroduclion to software engineering (C116SEOICI-L19) • 2020L • I
+Forecastng and comm_neds simutaeons (C116SE22CI•LI 8) 2020L 3 C
+cryptology - 2020L - 3 C
+Secuity ot syst«ns (CI'6SE02CI-L20) • 2020L • 3 C
+tntroduction -ta engineering (C116SEOICI•L19) • 2020L • 3 C Postw
+sa 27
+Show
+Show »
+Tabl[ca ogåoszei
+TabBca naMa
+Prz$adarka
+Przydatne '[nw
+Nazwa uvey
+Autor Show
+Show »
+Calendar with events
+today Show
+March 2020 ternat Admin Admin (Admin)
+A new window will open in which you will see all your subjects.
+WARNING. If you do not see the subject that should be assigned to you, check if it is visible in USOSweb. If
+not, contact the Dean's Office.
+Traamng
+My
+My au*t.
+S.m.•gys
+O Bam My training paths!271
+Search phrase
+Trelnlno path nonw
+Introduction to software engineering (CIISSE01CI-L19) •
+2020L.1 w.pw
+Fotx•asting and simulations (C116SE22CI•LI 8)
+2020L.3C
+Cryptology (CIICSEOI • 20201 • 3 C Cetoaory Oosctlptlon
+Introduction to
+software
+engineang
+(C116SE01Cl.L...
+For#asting and
+computers
+simulatims
+(CIISSE22Cl...
+Cryptology
+(C116SE01Cl.L20)
+.2020L.3C
+Security of
+computor
+systems
+(CIISSE02Cl.L20)
+.2020L.3C Proorcse Status Show/hide advarwed filter
+No. of
+louach09 Retina
+Faired
+To join an online class, press the name of the subject and its content will open. In "optional elements" items will show
+an item called "Online Classes".
+WARNING. If you cannot find the "Online classes" element, it means that the lecturer has not yet added his
+classes to Platon. Try to check back later or contact the class teacher.
+VISTULA - DZIAL IT
+3Optional elements
+Exemplary header.docx
+Exercise 1
+Exercise 2
+Exercise 3 (Transposition cipher)
+Exercise 4 (remote)
+Exercise 5 (remote)
+Exercise 6 (remote)
+On line meeting 27.03
+Press the "Expand" button, which is located on this element, then you will see all the details of online classes.
+The details will include a link to the online meeting at Microsoft Teams, as well as meeting dates. Dates should coincide
+with classes planned in USOSweb.
+WARNING. If the lecturer did not provide hours or dates of the meeting but inserted a link to the meeting,
+please connect to the online classes according to the schedule in USOSweb.
+Classes scheduled by lecturers will in most cases be cyclical classes. The same link will be valid for all classes in a given
+subject. VISTULA - DZIAL IT
+4On line meeting 27.03
+Subject:
+Additional
+information:
+Type:
+Organizer. On line meeting 27.03 Start date:
+End date:
+Location: 2020-03-27
+2020-05-22
+Start https://teams_miåosofl
+6eag-47f7.b27S The
+classes
+fee:
+Contact
+Details:
+Microsoft Teams
+After clicking the online meeting link, you will be taken to the Microsoft Teams program.
+3. Attending online classes in the Microsoft Teams application.
+After entering the meeting page in Microsoft Teams, you can choose whether to connect via the website or through
+the Microsoft Teams application. The meeting will look very similar in both modes.
+VISTULA - DZIAL IT
+5Microsoft Teams
+Najlepsze funkcje spotkafi w klasycznej aplikacji Teams
+Pobl aplikac q dia systemu nd
+Masz jui aptikacje Teams? Uruchom teraz
+ujawnianie informacji osobom trzxim
+When joining via a web browser, you may receive a message saying that the Microsoft Teams wants to use a
+microphone and camera. Please press "Allow".
+C II
+teams.microsoft.com wants to
+use your microphone
+Use your camera Allow x
+Block
+mikrofonu i
+spotkan w tej adarce.
+Gdy to big wfq yna moment wop u dzen•a. abypskon gumwa
+On the next screen enter your name, surname and album number. Then press the "join" button.
+WARNING. If you enter an incorrect first and last name, you may not be admitted to the online meeting!
+VISTULA - DZIAL IT
+6Write your name,
+surname and student
+number audio Ideo dla
+Click this button to
+connect to the
+meeting
+Do•fQ te
+After joining the meeting, you must wait for the teacher to allow you into the meeting. After starting the class, you
+will see an image from the teacher's camera. The application will automatically show the person who is speaking or
+sharing his desktop.
+In the navigation bar on the screen, you can turn on and off the camera and microphone, share the contents of the
+desktop (if the host gave you such a permission), show a chat window, show a window with meeting participants.
+You can get IT help by writing to icthelp@vistuta.edu.pl.
+In the absence of links to online classes on the Platon platform, contact the teacher.
+If you do not see your classes in Platon, please contact the Dean's Office. After adding them by the Dean's Office, they
+will be visible on Platon from the next day. VISTULA - DZIAL IT
+7
